@@ -1,0 +1,1 @@
+I give you an string s with "x",  "t" , "e" and a range "r" from 0-20. An "e" represents an emp bomb and destroys everything in his range r. Print the string after the explosion. All televisions "t" become a empty slot "x". Print the string after the explosion.
